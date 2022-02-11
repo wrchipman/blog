@@ -53,6 +53,6 @@ PyHamcrest==2.0.2
 pyOpenSSL==19.1.0
 service-identity==18.1.0
 sqlparse==0.2.4
-Twisted==19.10.0
+Twisted==22.1.0
 txaio==20.1.1
 zope.interface==4.7.2
